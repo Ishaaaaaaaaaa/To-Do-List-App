@@ -1,5 +1,4 @@
 # To-Do-List-App
-# ToDo-List-App
 A simple and interactive ToDo List web application that allows users to add, edit, delete, and manage their daily tasks. It supports light/dark mode, drag-and-drop reordering, and automatically saves tasks using the browser's local storage.
 
 ## Features
