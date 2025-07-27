@@ -7,7 +7,7 @@ A simple and interactive ToDo List web application that allows users to add, edi
 * Delete tasks
 * Edit tasks
 * Mark task status: Active, Completed, Not Completed
-* Toggle between Light Mode and Dark Mode (with hover preview)
+* Toggle between Light Mode and Dark Mode 
 * Drag and drop to reorder tasks
 * Timestamp added when a task is created
 * Local storage support for data persistence
